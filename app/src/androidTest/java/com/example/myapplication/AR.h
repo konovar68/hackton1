@@ -12,5 +12,4 @@ class AR {
 };
 
 
-//test
 #endif //HACKTON_AR_H
